@@ -1,0 +1,6 @@
+{
+  "fineco-it": {
+    "manifest": "fineco-it/ZenmoneyManifest.xml",
+    "js":       "fineco-it/bundle.js"
+  }
+}

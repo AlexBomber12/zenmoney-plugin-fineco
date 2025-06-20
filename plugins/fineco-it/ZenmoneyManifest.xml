@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<provider>
+    <id>fineco-it</id>
+    <title>Fineco Bank (IT)</title>
+    <company>0</company>
+    <description>Scraper + PSD2 API plugin for Fineco Italy</description>
+    <country>it</country>
+    <version>1.0</version>
+    <build>1</build>
+    <modular>true</modular>
+    <files>
+        <js>index.js</js>
+        <preferences>preferences.xml</preferences>
+    </files>
+</provider>
